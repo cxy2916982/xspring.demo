@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="xspring Maven Webapp"
+  id="myeclipse.1411477364624"
+  context-root="/xspring"
+  j2ee-spec="6.0"
+  archive="xspring Maven Webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
