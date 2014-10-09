@@ -35,6 +35,7 @@ public class UserController {
 			mav.setViewName("success");
 			mav.addObject("user", user);
 			mav.addObject("msg", "注册成功了，可以去登陆了");
+			System.out.println("xxxxxxxxxxx");
 			return mav;
 		} catch (Exception e) {
 			mav.setViewName("error");
