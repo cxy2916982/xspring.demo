@@ -150,6 +150,12 @@
 					<argLine>-Dfile.encoding=UTF-8</argLine>
 				</configuration>
 			</plugin>
+			
+			<plugin>
+				<artifactId>morg.apache.tomcat.maven</artifactId>
+				<version>7</version>
+				
+			</plugin>
 
 		</plugins>
 
