@@ -20,11 +20,6 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-			<groupId>com.oracle</groupId>
-			<artifactId>ojdbc14</artifactId>
-			<version>10.2.0.2.0</version>
-		</dependency>
 		<!-- servlet API -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
